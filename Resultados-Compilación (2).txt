@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 04:57 p. m....
+1>------ Operación Compilar iniciada: Proyecto: Practica 5, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>Practica 5 -> C:\Users\admin\Desktop\}Practicas Disol\Practica 5\Practica 5\bin\Debug\net8.0-windows\Practica 5.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 04:57 p. m. y tardó 12.329 segundos ==========
